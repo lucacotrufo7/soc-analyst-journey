@@ -3,7 +3,7 @@
 I am a student working to become a SOC Analyst. This repository documents my learning path, my notes and my incident write-ups.
 
 
-## Repository structure
+## repository structure
 - [writeups/](writeups/) - incident write-ups (simulated incidents, synthetic logs)
 - [notes/](notes/) - short study notes
 - [detection/](detection/) - planned: detection queries and rules
