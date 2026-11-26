@@ -1,7 +1,7 @@
-
 # SOC Analyst Journey
 
-Percorso di studio per diventare SOC Analyst L1 (2026-2027).
+I am a student working to become a SOC Analyst. This repository documents my learning path, my notes and my incident write-ups.
+
 
 ## Repository structure
 - [writeups/](writeups/) - incident write-ups (simulated incidents, synthetic logs)
